@@ -9,4 +9,4 @@
 from Class.class9 import Car 
 
 car1 = Car("ABC-123", 142)
-print(f"Car's Registration Number: {car1.reg_num}, Maximum Speed = {car1.max_speed}, Current Spped = {car1.cur_speed} and Total Distance Travelled = {car1.travelled_dis}")
+print(f"Car's Registration Number: {car1.reg_num}, Maximum Speed = {car1.max_speed}, Current Spped = {car1.cur_speed} and Total Distance Travelled = {car1.distance}")
